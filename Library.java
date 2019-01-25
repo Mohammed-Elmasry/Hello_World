@@ -8,4 +8,7 @@ class Library {
     private class Reader{}
     private class Writer{}
     private class Interpreter{}
+    private class changer{}
+    private class defuseTextAnalyzer{}
+
 }
